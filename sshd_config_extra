@@ -1,0 +1,6 @@
+
+PermitRootLogin yes
+PasswordAuthentication yes
+Match User root
+ChrootDirectory /data/%u
+ForceCommand internal-sftp
