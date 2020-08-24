@@ -1,2 +1,2 @@
-# sftp
+# sftp-docker
 sftp docker container
